@@ -10,14 +10,6 @@ feature, and the machine learning system will analyze the image to identify thei
 analysis, the app recommends hairstyles that are likely to suit the user's features, allowing them to get a look they are 
 confident and satisfied with.
 
-## Our Team
-
-| Bangkit-Id    | Name                       |Path
-| ------------- |:--------------------------:| :----------------:|
-| M335D4KX2127  | Zahra Nadhifah             | Machine Learning  |
-| M298D4KY2518  | Komang Bagus Kencana Putra | Machine Learning  |
-| M299D4KX3349  | Monica Salwa Azzahra       | Machine Learning  |
-
 ## Techonologies we used
 * Machine Learning
 1. NumPy
