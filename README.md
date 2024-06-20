@@ -10,11 +10,11 @@ feature, and the machine learning system will analyze the image to identify thei
 analysis, the app recommends hairstyles that are likely to suit the user's features, allowing them to get a look they are 
 confident and satisfied with.
 
-## Kaggle Dataset
+## Kaggle Dataset 📩
 1. [Face Shape](https://www.kaggle.com/datasets/hanakb/men-face-shape)
 2. [Hair Type](https://www.kaggle.com/datasets/vyombhatia/the-three-hair-types)
 
-## Techonologies we used
+## Techonologies we used 🔧
 * Machine Learning
 1. NumPy
 2. Scikit Learn
@@ -26,7 +26,7 @@ confident and satisfied with.
 8. Pandas
 9. K-Means Clustering
 10. Matplotlib
-## The Steps
+## The Steps 🔍
 1. Face detection using Haarcascade Classifier
 2. Landmark extraction features for face shape
 3. Drawing lines on forehead
