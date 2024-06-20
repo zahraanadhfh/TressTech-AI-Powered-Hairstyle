@@ -24,22 +24,22 @@ confident and satisfied with.
 
 ## Techonologies we used
 * Machine Learning
-  1. NumPy
-  2. Scikit Learn
-  3. Tensorflow
-  4. PIL
-  5. OpenCV
-  6. OS
-  7. Random
-  8. Pandas
-  9. K-Means Clustering
-  10. Matplotlib
+1. NumPy
+2. Scikit Learn
+3. Tensorflow
+4. PIL
+5. OpenCV
+6. OS
+7. Random
+8. Pandas
+9. K-Means Clustering
+10. Matplotlib
 * Cloud Computing
-  1. Express.js
-  2. Flask
-  3. Cloud SQL
-  4. Cloud Run
-  5. Cloud Storage
+1. Express.js
+2. Flask
+3. Cloud SQL
+4. Cloud Run
+5. Cloud Storage
 * Mobile Development
 
 
