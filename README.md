@@ -1,4 +1,4 @@
-# TressTech: AI Powered Hairstyle - Bangkit Capstone Project 2024
+# TressTech: AI Powered Hairstyle - Bangkit Capstone Project 2024 ✨
 
 ![This is an alt text.](https://i.pinimg.com/736x/64/b7/f4/64b7f49f3b0dc1c3fe84927a82a9bf65.jpg "This is a sample image.")
 
