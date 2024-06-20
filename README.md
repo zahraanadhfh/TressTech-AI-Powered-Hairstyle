@@ -21,4 +21,22 @@ confident and satisfied with.
 | A335D4KY3586  | Muhammad Fadhil Rabbani    | Mobile Development|
 | A335D4KY3452  | Ryan Hidayat               | Mobile Development|
 
-|
+## Techonologies we used
+1. NumPy
+2. Scikit Learn
+3. Tensorflow
+4. PIL
+5. OpenCV
+6. OS
+7. Random
+8. Pandas
+9. K-Means Clustering
+10. Matplotlib
+
+## Repositories
+
+| Learning Paths     | Link          |
+| -------------      |:-------------:|
+| Machine Learning   | right foo     |
+| Cloud Computing    | right bar     |
+| Mobile Development | right baz     |
