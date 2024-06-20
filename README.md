@@ -12,7 +12,7 @@ confident and satisfied with.
 ## Our Team
 
 | Bangkit-Id    | Name                       |Path
-| ------------- |:-------------:|            |:-------------:    |
+| ------------- |:--------------------------:| :----------------:|
 | M335D4KX2127  | Zahra Nadhifah             | Machine Learning  |
 | M298D4KY2518  | Komang Bagus Kencana Putra | Machine Learning  |
 | M299D4KX3349  | Monica Salwa Azzahra       | Machine Learning  |
