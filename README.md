@@ -1,4 +1,4 @@
-# TressTech: AI Powered Hairstyle - Bangkit Capstone Project 2024
+# TressTech: AI Powered Hairstyle - Machine Learning Implementation
 
 ![This is an alt text.](https://i.pinimg.com/736x/64/b7/f4/64b7f49f3b0dc1c3fe84927a82a9bf65.jpg "This is a sample image.")
 
@@ -17,10 +17,6 @@ confident and satisfied with.
 | M335D4KX2127  | Zahra Nadhifah             | Machine Learning  |
 | M298D4KY2518  | Komang Bagus Kencana Putra | Machine Learning  |
 | M299D4KX3349  | Monica Salwa Azzahra       | Machine Learning  |
-| C009D4KX0409  | Chisilia Amanda Wahyudi    | Cloud Computing   |
-| C009D4KX0315  | Salma Zahra Dzakia         | Cloud Computing   |
-| A335D4KY3586  | Muhammad Fadhil Rabbani    | Mobile Development|
-| A335D4KY3452  | Ryan Hidayat               | Mobile Development|
 
 ## Techonologies we used
 * Machine Learning
@@ -34,19 +30,12 @@ confident and satisfied with.
 8. Pandas
 9. K-Means Clustering
 10. Matplotlib
-* Cloud Computing
-1. Express.js
-2. Flask
-3. Cloud SQL
-4. Cloud Run
-5. Cloud Storage
-* Mobile Development
+## The Steps
+1. Face detection using Haarcascade Classifier
+2. Landmark extraction features for face shape
+3. Drawing lines on forehead
+4. Calculating angle between the landmarks that we calculated by using arcustangens.
+5. Calculating similarity between the landmarks
+6. Build model with CNN to classify the face shape based on the landamark data
 
-
-## Repositories
-
-| Learning Paths     | Link          |
-| -------------      |:-------------:|
-| Machine Learning   | [Github](https://github.com/zahraanadhfh/TressTech-AI-Powered-Hairstyle/tree/Machine-Learning)  |
-| Cloud Computing    | [GitHub](https://github.com/chisiliaamanda/project_hairstyle)                                   |
-| Mobile Development | right baz                                                                                       |
+                                                                                |
