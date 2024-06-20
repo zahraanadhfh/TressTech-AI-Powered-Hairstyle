@@ -12,11 +12,13 @@ confident and satisfied with.
 ## Our Team
 
 | Bangkit-Id    | Name                       |Path
-| ------------- |:-------------:|            |:-------------:|
-| M335D4KX2127  | Zahra Nadhifah             | Machine Learning
-| M298D4KY2518  | Komang Bagus Kencana Putra | Machine Learning
-| M299D4KX3349  | Monica Salwa Azzahra       | Machine Learning
-| C009D4KX0409  | Chisilia Amanda Wahyudi    | Cloud Computing
-| C009D4KX0315  | Salma Zahra Dzakia         | Cloud Computing
-| A335D4KY3586  | Muhammad Fadhil Rabbani    | Mobile Development
-| A335D4KY3452  | Ryan Hidayat               | Mobile Development
+| ------------- |:-------------:|            |:-------------:    |
+| M335D4KX2127  | Zahra Nadhifah             | Machine Learning  |
+| M298D4KY2518  | Komang Bagus Kencana Putra | Machine Learning  |
+| M299D4KX3349  | Monica Salwa Azzahra       | Machine Learning  |
+| C009D4KX0409  | Chisilia Amanda Wahyudi    | Cloud Computing   |
+| C009D4KX0315  | Salma Zahra Dzakia         | Cloud Computing   |
+| A335D4KY3586  | Muhammad Fadhil Rabbani    | Mobile Development|
+| A335D4KY3452  | Ryan Hidayat               | Mobile Development|
+
+|
