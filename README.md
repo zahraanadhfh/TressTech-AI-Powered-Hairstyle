@@ -39,6 +39,6 @@ confident and satisfied with.
 
 | Learning Paths     | Link          |
 | -------------      |:-------------:|
-| Machine Learning   | right foo     |
-| Cloud Computing    | right bar     |
+| Machine Learning   | [Github](https://github.com/zahraanadhfh/TressTech-AI-Powered-Hairstyle/tree/Machine-Learning)|
+| Cloud Computing    | [Github](https://github.com/chisiliaamanda/project_hairstyle)                                 |
 | Mobile Development | right baz     |
