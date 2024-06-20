@@ -33,3 +33,4 @@ confident and satisfied with.
 4. Calculating angle between the landmarks that we calculated by using arcustangens.
 5. Calculating similarity between the landmarks
 6. Build model with CNN to classify the face shape based on the landmark data
+7. Make recommendation based on prediction on face shape model and hair type model
