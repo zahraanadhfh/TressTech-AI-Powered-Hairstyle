@@ -22,7 +22,7 @@ confident and satisfied with.
 | A335D4KY3586  | Muhammad Fadhil Rabbani    | Mobile Development|
 | A335D4KY3452  | Ryan Hidayat               | Mobile Development|
 
-## Techonologies we used
+## Techonologies we used 🔧
 * Machine Learning
 1. NumPy
 2. Scikit Learn
@@ -43,7 +43,7 @@ confident and satisfied with.
 * Mobile Development
 
 
-## Repositories
+## Repositories 📁
 
 | Learning Paths     | Link          |
 | -------------      |:-------------:|
