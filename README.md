@@ -22,7 +22,7 @@ confident and satisfied with.
 | A335D4KY3452  | Ryan Hidayat               | Mobile Development|
 
 ## Techonologies we used
-**###### Machine Learning**
+* Machine Learning
 1. NumPy
 2. Scikit Learn
 3. Tensorflow
