@@ -1,5 +1,7 @@
 # TressTech: AI Powered Hairstyle - Bangkit Capstone Project 2024
-![This is an alt text.](/https://i.pinimg.com/736x/64/b7/f4/64b7f49f3b0dc1c3fe84927a82a9bf65.jpg "This is a sample image.")
+
+![This is an alt text.]
+(/https://i.pinimg.com/736x/64/b7/f4/64b7f49f3b0dc1c3fe84927a82a9bf65.jpg "This is a sample image.")
 
 ## TressTech: AI Powered Hairstyle Application
 Tresstech is an innovative app that helps users, mainly males, choose the best hairstyle for their head shape and hair type. 
