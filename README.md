@@ -51,5 +51,5 @@ confident and satisfied with.
 | Learning Paths     | Link          |
 | -------------      |:-------------:|
 | Machine Learning   | [Github](https://github.com/zahraanadhfh/TressTech-AI-Powered-Hairstyle/tree/Machine-Learning)                     |
-| Cloud Computing    | [Github](https://github.com/chisiliaamanda/project_hairstyle)                                                      |
+| Cloud Computing    | [Github](https://github.com/zahraanadhfh/TressTech-AI-Powered-Hairstyle/tree/Cloud-Computing)                                                      |
 | Mobile Development | [Github](https://github.com/zahraanadhfh/TressTech-AI-Powered-Hairstyle/tree/Mobile-Development?tab=readme-ov-file)| 
