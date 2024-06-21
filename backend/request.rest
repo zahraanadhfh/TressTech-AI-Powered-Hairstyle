@@ -1,0 +1,28 @@
+GET http://localhost:5000/users
+Authorization: 
+
+###
+POST http://localhost:5000/users
+Content-Type: application/json
+
+{
+    "name": "Chisilia and Salma", 
+    "email": "email@gmail.com",
+    "password": "123456",
+    "confPassword": "123456"
+}
+
+###
+POST http://localhost:5000/login
+Content-Type: application/json
+
+{
+    "email": "email@gmail.com",
+    "password": "123456"
+}
+
+###
+GET http://localhost:5000/token 
+
+###
+DELETE http://localhost:5000/logout
