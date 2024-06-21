@@ -49,4 +49,5 @@ confident and satisfied with.
 | -------------      |:-------------:|
 | Machine Learning   | [Github](https://github.com/zahraanadhfh/TressTech-AI-Powered-Hairstyle/tree/Machine-Learning)|
 | Cloud Computing    | [Github](https://github.com/chisiliaamanda/project_hairstyle)                                 |
-| Mobile Development | right baz     |
+| Mobile Development | [Github](https://github.com/zahraanadhfh/TressTech-AI-Powered-Hairstyle/tree/Mobile-Development?tab=readme-ov-file
+)     | 
