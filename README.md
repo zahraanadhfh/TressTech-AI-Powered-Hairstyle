@@ -10,3 +10,16 @@ feature, and the machine learning system will analyze the image to identify thei
 analysis, the app recommends hairstyles that are likely to suit the user's features, allowing them to get a look they are 
 confident and satisfied with.
 
+## Techonologies we used 🔧
+* Mobile Development
+1. Figma
+2. Android Studio
+3. Android Jetpack
+4. Retrofit
+
+## The Steps 🔍
+1. UX researching & UI Designing with Figma
+2. Implementation UI/UX to Android Studio
+3. Develop Android App using Kotlin
+4. Implementation CC API to App using retrofit
+5. Implementation ML Model to App
