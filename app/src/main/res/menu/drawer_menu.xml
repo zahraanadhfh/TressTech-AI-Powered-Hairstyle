@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/top_group">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/icon_profile"
+            android:title="My Profile" />
+        <item
+            android:id="@+id/nav_payment"
+            android:icon="@drawable/icon_payment"
+            android:title="Payment" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/icon_setting"
+            android:title="Setting" />
+    </group>
+
+    <group android:id="@+id/bottom_group"
+        android:layout_gravity="bottom">
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/icon_about_us"
+            android:title="About Us"/>
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/icon_logout"
+            android:title="Log Out"/>
+    </group>
+</menu>

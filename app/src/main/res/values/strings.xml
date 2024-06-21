@@ -1,0 +1,293 @@
+<resources>
+    <string name="app_name">TressTech</string>
+    <string name="loginMaintxt">Hey There!, welcome back!</string>
+    <string name="loginsubmaintxt">Happy to have you back</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="sign_in">Sign in</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="registermaintxt">Let\'s get started!</string>
+    <string name="registersubmaintxt">Create your account and we will set everything up for ou real quick</string>
+    <string name="examplename">examplename</string>
+    <string name="email">Email</string>
+    <string name="example_mail">example@mail.com</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="click_here">Click here!</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="starting1">Take a picture or upload a photo from galery</string>
+    <string name="mainappname">Tress Tech</string>
+    <string name="starting2">Identify your head shape and hair type and get your hair style recommendation now!</string>
+    <string name="substartingtxt">When AI can help with your hairstyle</string>
+    <string name="getstartednow">Get Started Now</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="cancel">Cancel</string>
+    <string name="preview">Preview</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="policy">By clicking this button you agree to the Terms and Conditions and our Privacy Policy</string>
+    <string name="search_list">Cari hairstyle yang kamu mau</string>
+    <string name="item_row_title">Hairstyle Name</string>
+    <string name="hairstyle_description">Hairstyle description</string>
+    <string name="main_store">Store</string>
+    <string name="main_hair_style">Hair Style</string>
+    <string name="main_barber_shop_nearby">Nearby</string>
+    <string name="shoptittle">Shop</string>
+    <string name="dummy_productname">Gatsby Moving Rubber Spiky Edge Hair Wax</string>
+    <string name="dummy_productsize">100ml</string>
+    <string name="dummy_productprice">Rp.200.000</string>
+    <string name="dummy_productDesc">Wax dengan tekstur elastis yang memungkinkan kamu untuk membentuk gaya rambut berduri dan tajam. Mudah dicuci dan memberikan hasil matte.</string>
+    <string name="tambah_keranjang">+ Cart</string>
+    <string name="buy">Beli</string>
+    <string name="product_search">Mau nyari barang apa?</string>
+    <string name="cart_total">Total Price</string>
+    <string name="dummy_totalPrice">RP.200.000</string>
+    <string name="cart_buy">Beli</string>
+    <string name="dummy_itemCount">1</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="dummy_paymentName">Master</string>
+    <string name="add_paymen_method">Add Paymen Method</string>
+    <string name="fill_your_card_info">Fill your card info</string>
+    <string name="hint_payment">XXX XXX XXX 234</string>
+    <string name="Payment_cardNumber">Card Number</string>
+    <string name="Payment_cardholder_name">Cardholder Name</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="fail_prediction">No prediction available</string>
+    <string name="result_maintxt">Great! Here\'s your result</string>
+    <string name="result_tittle">Result</string>
+    <string name="result_retake">Retake</string>
+    <string name="result_home">Home</string>
+    <string name="result_hairstyle">HairStyle</string>
+    <string name="starting_signin">Sign in</string>
+    <string name="starting_sign_up">Sign up</string>
+    <string-array name="data_Haircut_picture">
+        <item>@drawable/undercut</item>
+        <item>@drawable/crew_cut</item>
+        <item>@drawable/pompadour_cut</item>
+        <item>@drawable/slick_back_cut</item>
+        <item>@drawable/side_part_cut</item>
+        <item>@drawable/messy_waves_cut</item>
+        <item>@drawable/bro_flow_cut</item>
+        <item>@drawable/wavy_quiff_cut</item>
+        <item>@drawable/textured_crop_cut</item>
+        <item>@drawable/loose_fringe_cut</item>
+        <item>@drawable/curly_top_fade_cut</item>
+        <item>@drawable/curly_fringe_cut</item>
+        <item>@drawable/short_curls_cut</item>
+        <item>@drawable/curly_tapered_cut</item>
+        <item>@drawable/curly_under_cut</item>
+        <item>@drawable/short_afro_cut</item>
+        <item>@drawable/afro_taper_cut</item>
+        <item>@drawable/twist_out_cut</item>
+        <item>@drawable/high_top_fade_cut</item>
+        <item>@drawable/curly_line_up</item>
+    </string-array>
+    <string-array name="data_haircut_name">
+        <item>Under Cut</item>
+        <item>Crew Cut</item>
+        <item>Pompadour Cut</item>
+        <item>Slick Back Cut</item>
+        <item>Side Part Cut</item>
+        <item>Messy Waves Cut</item>
+        <item>Bro Flow Cut</item>
+        <item>Wavy Quiff Cut</item>
+        <item>Textured Crop Cut</item>
+        <item>Loose Fringe Cut</item>
+        <item>Curly Top Fade Cut</item>
+        <item>Curly Fringe Cut</item>
+        <item>Short Curls Cut</item>
+        <item>Curly Tapered Cut</item>
+        <item>Curly Under Cut</item>
+        <item>Short Afro Cut</item>
+        <item>Afro Taper Cut</item>
+        <item>Twist Out Cut</item>
+        <item> Curly High Top Fade Cut</item>
+        <item>Curly Line Up</item>
+    </string-array>
+    <string-array name="data_haircut_description">
+        <item>Potongan rambut di mana bagian samping dan belakang dipotong sangat pendek atau di-shave, sementara bagian atas dibiarkan panjang. Kontras antara panjang bagian atas dan pendek bagian samping menciptakan tampilan yang tajam dan modern.</item>
+        <item>Potongan pendek di seluruh kepala, biasanya sekitar 1-2 inci di bagian atas dan lebih pendek di sisi dan belakang. Gaya ini sangat rapi dan mudah dirawat.</item>
+        <item>Bagian atas rambut panjang dan disisir ke belakang dengan volume, sementara bagian samping lebih pendek. Gaya ini membutuhkan penggunaan produk seperti pomade untuk menahan bentuknya.</item>
+        <item>Rambut panjang di bagian atas disisir lurus ke belakang dengan menggunakan gel atau pomade untuk tampilan yang halus dan rapi. Bagian samping biasanya lebih pendek.</item>
+        <item>Rambut dipisah ke samping dengan bagian atas sedikit lebih panjang dan rapi. Gaya ini memberikan tampilan yang klasik dan formal.</item>
+        <item>Rambut bergelombang dipotong sedang dan ditata secara alami dengan sedikit produk untuk tampilan berantakan yang keren dan santai.</item>
+        <item>Potongan rambut sedang hingga panjang yang disisir ke belakang untuk tampilan alami dan santai. Rambut jatuh bebas dan memberikan kesan tidak terlalu diatur.</item>
+        <item>Bagian atas panjang dan bergelombang, disisir ke atas dan ke belakang dengan volume. Sisi-sisinya biasanya lebih pendek untuk memberikan kontras.</item>
+        <item>Potongan pendek dengan tekstur alami yang menonjolkan gelombang rambut. Bagian atas biasanya lebih panjang dari bagian samping dan belakang.</item>
+        <item>Bagian atas sedikit lebih panjang dan dibiarkan jatuh secara alami di dahi. Gaya ini memberikan tampilan yang santai dan mudah dirawat.</item>
+        <item>Bagian samping dipotong pendek atau di-shave, sementara bagian atas dibiarkan keriting dan penuh volume. Kontras ini menonjolkan tekstur keriting bagian atas.</item>
+        <item>Bagian atas panjang dan keriting, dengan poni jatuh di dahi. Gaya ini memberikan tampilan yang modern dan sedikit edgy.</item>
+        <item>Potongan pendek yang tetap mempertahankan tekstur keriting. Biasanya dipotong rapi di sekitar tepi dan tetap penuh di bagian atas.</item>
+        <item>Bagian samping dan belakang dipotong semakin pendek ke bawah, sementara bagian atas dibiarkan keriting dan lebih panjang. Gaya ini memberikan tampilan yang rapi dan bersih.</item>
+        <item>Bagian samping dipotong pendek atau di-shave, sementara bagian atas dibiarkan keriting dan bertekstur. Kontras ini menonjolkan volume dan tekstur rambut keriting.</item>
+        <item>Rambut dibiarkan alami dan mengembang, tapi dipotong pendek untuk tampilan rapi. Gaya ini mempertahankan tekstur alami tanpa terlalu panjang.</item>
+        <item>Bagian samping dan belakang dipotong pendek atau di-fade, sementara bagian atas dibiarkan lebih panjang dan alami. Gaya ini memberikan tampilan yang modern dan rapi.</item>
+        <item>Rambut diputar dalam keadaan basah dan dibiarkan kering untuk mendapatkan tekstur dan definisi yang lebih baik. Gaya ini memberikan tampilan yang bertekstur dan alami.</item>
+        <item>Bagian samping dipotong pendek atau di-fade, sementara bagian atas dibiarkan tinggi dan sangat keriting. Gaya ini memberikan tampilan yang sangat kontras dan stylish.</item>
+        <item>Rambut dipotong pendek dengan garis tegas di sekitar dahi dan sisi kepala untuk tampilan rapi dan modern. Gaya ini sering dikombinasikan dengan fade atau afro pendek.</item>
+    </string-array>
+    <string-array name="product_name">
+        <item>Murray\'s Superior Hair Dressing Pomade</item>
+        <item>Gatsby Moving Rubber Spiky Edge Hair Wax</item>
+        <item>Reuzel Pink Grease Heavy Hold Pomade</item>
+        <item>Layrite Superhold Pomade</item>
+        <item>Suavecito Firme Hold Pomade</item>
+        <item>Upper Cut Deluxe Pomade</item>
+        <item>American Crew Pomade</item>
+        <item>Baxter of California Clay Pomade</item>
+        <item>Imperial Barber Products Classic Pomade</item>
+        <item>Schwarzkopf Got2b Phenomenal Pomade</item>
+        <item>Reuzel Hair Tonic</item>
+        <item>Beardbrand Tea Tree Hair Tonic</item>
+        <item>Clubman Pinaud Eau de Quinine Hair Tonic</item>
+        <item>Morgan\'s Pomade Hair Tonic</item>
+        <item>Vaseline Hair Tonic and Scalp Conditioner</item>
+        <item>Geo F. Trumper Extract of Limes Hair Tonic</item>
+        <item>Lucky Tiger 3 Purpose Hair Tonic</item>
+        <item>Gatsby Styling Gel Wet &amp; Hard</item>
+        <item>Mandom Lucido-L Designing Aqua Hair Gel</item>
+        <item>Bed Head for Men Power Play Gel</item>
+        <item>TRESemmé Tres Two Mega Firm Control Gel</item>
+        <item>L\'Oreal Studio Line Clean Gel</item>
+        <item>American Crew Firm Hold Styling Gel</item>
+        <item>Murray\'s Gel Loc-Lock</item>
+        <item>Suave Max Hold Sculpting Gel</item>
+        <item>Paul Mitchell Super Clean Sculpting Gel</item>
+        <item>Dove Men+Care Control Gel</item>
+    </string-array>
+    <string-array name="product_desc">
+        <item>Pomade klasik dengan daya tahan tinggi yang memberikan kilau dan kontrol maksimal. Cocok untuk gaya rambut klasik seperti pompadour dan slick back.</item>
+        <item>Wax dengan tekstur elastis yang memungkinkan kamu untuk membentuk gaya rambut berduri dan tajam. Mudah dicuci dan memberikan hasil matte.</item>
+        <item>Pomade berbasis minyak dengan daya tahan tinggi dan kilau medium. Cocok untuk rambut tebal dan gaya yang membutuhkan daya tahan sepanjang hari.</item>
+        <item>Pomade berbasis air dengan daya tahan tinggi yang mudah dicuci. Memberikan hasil akhir matte dan cocok untuk rambut yang sulit diatur.</item>
+        <item>Pomade berbasis air dengan daya tahan kuat dan kilau sedang. Mudah dicuci dan memberikan hasil akhir yang rapi dan terkontrol.</item>
+        <item>Pomade berbasis air dengan daya tahan sedang hingga kuat. Memberikan kilau tinggi dan cocok untuk berbagai gaya rambut klasik.</item>
+        <item>Pomade berbasis air yang memberikan kilau tinggi dan daya tahan sedang. Cocok untuk gaya rambut yang membutuhkan fleksibilitas dan kilau.</item>
+        <item>Pomade berbasis tanah liat dengan daya tahan tinggi dan hasil akhir matte. Cocok untuk gaya rambut yang membutuhkan tekstur dan volume.</item>
+        <item>Pomade berbasis air dengan daya tahan tinggi dan kilau medium. Mudah dicuci dan cocok untuk semua jenis rambut.</item>
+        <item>Pomade berbasis air dengan daya tahan sedang dan kilau tinggi. Memberikan hasil akhir yang rapi dan terkontrol.</item>
+        <item>Hair tonic klasik yang menyegarkan kulit kepala dan rambut. Memberikan kelembapan ringan dan kilau alami.</item>
+        <item>Hair tonic dengan kandungan tea tree yang menyegarkan dan menyehatkan kulit kepala. Membantu mengurangi ketombe dan memberikan kilau sehat.</item>
+        <item>Hair tonic klasik dengan aroma khas yang menyegarkan rambut dan kulit kepala. Membantu menjaga kebersihan rambut.</item>
+        <item>Hair tonic yang memberikan kelembapan dan kilau alami. Membantu menyehatkan kulit kepala dan rambut.</item>
+        <item>Hair tonic yang memberikan kelembapan pada kulit kepala dan rambut. Membantu mengatasi kulit kepala kering dan ketombe.</item>
+        <item>Hair tonic mewah dengan ekstrak lime yang menyegarkan dan menyehatkan kulit kepala. Memberikan kilau alami pada rambut.</item>
+        <item>Hair tonic multifungsi yang menyegarkan, melembapkan, dan memberikan kilau. Cocok untuk semua jenis rambut.</item>
+        <item>Gel rambut dengan daya tahan tinggi dan hasil akhir basah. Cocok untuk gaya rambut yang rapi dan tahan lama.</item>
+        <item>Gel rambut dengan formula ringan dan hasil akhir alami. Memberikan daya tahan sedang dan tidak lengket.</item>
+        <item>Gel rambut dengan daya tahan tinggi dan hasil akhir kilau. Cocok untuk gaya rambut yang rapi dan terstruktur.</item>
+        <item>Gel rambut dengan daya tahan kuat dan hasil akhir kilau. Membantu menjaga gaya rambut sepanjang hari.</item>
+        <item>Gel rambut dengan formula ringan yang memberikan daya tahan sedang. Hasil akhir bersih dan tidak lengket.</item>
+        <item>Gel rambut dengan daya tahan kuat dan hasil akhir kilau tinggi. Membantu menjaga gaya rambut sepanjang hari.</item>
+        <item>Gel rambut dengan daya tahan tinggi yang cocok untuk rambut ikal dan gaya rambut kunci. Memberikan hasil akhir kilau dan tahan lama.</item>
+        <item>Gel rambut dengan daya tahan kuat dan hasil akhir kilau. Cocok untuk gaya rambut yang membutuhkan kontrol maksimal.</item>
+        <item>Gel rambut dengan daya tahan tinggi dan hasil akhir bersih. Membantu menjaga gaya rambut sepanjang hari tanpa rasa lengket.</item>
+        <item>Gel rambut dengan daya tahan kuat dan hasil akhir kilau. Formula yang tidak lengket dan mudah dicuci.</item>
+    </string-array>
+    <string-array name="product_photo">
+        <item>@drawable/murray_superior_hair_dressing_pomade</item>
+        <item>@drawable/gatsby_moving_rubber_spiky_edge_hair_wax</item>
+        <item>@drawable/reuzel_pink_grease_heavy_hold_pomade</item>
+        <item>@drawable/layrite_superhold_pomade</item>
+        <item>@drawable/suavecito_firme_hold_pomade</item>
+        <item>@drawable/upper_cut_deluxe_pomade</item>
+        <item>@drawable/american_crew_pomade</item>
+        <item>@drawable/baxter_of_california_clay_pomade</item>
+        <item>@drawable/imperial_barber_products_classic_pomade</item>
+        <item>@drawable/schwarzkopf_got2b_phenomenal_pomade</item>
+        <item>@drawable/reuzel_hair_tonic</item>
+        <item>@drawable/beardbrand_tea_tree_hair_tonic</item>
+        <item>@drawable/clubman_pinaud_eau_de_quinine_hair_tonic</item>
+        <item>@drawable/morgans_pomade_hair_tonic</item>
+        <item>@drawable/vaseline_hair_tonic_and_scalp_conditioner</item>
+        <item>@drawable/geof_trumper_extract_of_limes_hair_tonic</item>
+        <item>@drawable/lucky_tiger_3_purpose_hair_tonic</item>
+        <item>@drawable/gatsby_styling_gel_wet_and_hard</item>
+        <item>@drawable/mandom_lucido_l_designing_aqua_hair_gel</item>
+        <item>@drawable/bed_head_for_men_power_play_gel</item>
+        <item>@drawable/tresemme_tres_two_mega_firm_control_gel</item>
+        <item>@drawable/loreal_studio_line_clean_gel</item>
+        <item>@drawable/american_crew_firm_hold_styling_gel</item>
+        <item>@drawable/murrays_gel_loc_lock</item>
+        <item>@drawable/suave_max_hold_sculpting_gel</item>
+        <item>@drawable/paul_mitchell_super_clean_sculpting_gel</item>
+        <item>@drawable/dove_men_care_control_gel</item>
+    </string-array>
+    <string-array name="product_hair">
+        <item>Rp.80.000</item>
+        <item>Rp.50.000</item>
+        <item>Rp.150.000</item>
+        <item>Rp.200.000</item>
+        <item>Rp.150.000</item>
+        <item>Rp.200.000</item>
+        <item>Rp.150.000</item>
+        <item>Rp.250.000</item>
+        <item>Rp.200.000</item>
+        <item>Rp.100.000</item>
+        <item>Rp.150.000</item>
+        <item>Rp.250.000</item>
+        <item>Rp.100.000</item>
+        <item>Rp.150.000</item>
+        <item>Rp.40.000</item>
+        <item>Rp.300.000</item>
+        <item>Rp.200.000</item>
+        <item>Rp.20.000</item>
+        <item>Rp.40.000</item>
+        <item>Rp.100.000</item>
+        <item>Rp.50.000</item>
+        <item>Rp.30.000</item>
+        <item>Rp.150.000</item>
+        <item>Rp.80.000</item>
+        <item>Rp.30.000</item>
+        <item>Rp.200.000</item>
+        <item>Rp.50.000</item>
+    </string-array>
+    <string-array name="product_size">
+        <item>85g</item>
+        <item>80g</item>
+        <item>113g</item>
+        <item>120g</item>
+        <item>113g</item>
+        <item>100g</item>
+        <item>85g</item>
+        <item>60ml</item>
+        <item>177g</item>
+        <item>100ml</item>
+        <item>350ml</item>
+        <item>100ml</item>
+        <item>370ml</item>
+        <item>250ml</item>
+        <item>100ml</item>
+        <item>200ml</item>
+        <item>473ml</item>
+        <item>200ml</item>
+        <item>200ml</item>
+        <item>200ml</item>
+        <item>236ml</item>
+        <item>150ml</item>
+        <item>250ml</item>
+        <item>200ml</item>
+        <item>298ml</item>
+        <item>200ml</item>
+        <item>200ml</item>
+    </string-array>
+    <string-array name="payment_image">
+        <item>@drawable/visa_brand</item>
+        <item>@drawable/master_brand</item>
+        <item>@drawable/paypal_brand</item>
+        <item>@drawable/gopay</item>
+        <item>@drawable/dana</item>
+    </string-array>
+    <string-array name="payment_name">
+        <item>Visa</item>
+        <item>Master</item>
+        <item>Paypal</item>
+        <item>Gopay</item>
+        <item>Dana</item>
+    </string-array>
+
+</resources>

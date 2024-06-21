@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.motion.widget.MotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layoutDescription="@xml/activity_startingpage_scene"
+    android:background="@color/main_background"
+    tools:context=".startingpage">
+
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.344"
+        app:srcCompat="@drawable/brandnotext" />
+
+    <ImageView
+        android:id="@+id/gambarstarting1"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        app:altSrc="@drawable/starting1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toEndOf="parent"
+        app:layout_constraintVertical_bias="0.4"
+        app:srcCompat="@drawable/starting1"
+        tools:layout_editor_absoluteX="411dp" />
+
+    <TextView
+        android:id="@+id/titleMenu1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:fontFamily="sans-serif-condensed-light"
+        android:gravity="center_horizontal"
+        android:text="@string/starting1"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/gambarstarting1"
+        app:layout_constraintStart_toStartOf="@id/gambarstarting1"
+        app:layout_constraintTop_toBottomOf="@+id/gambarstarting1" />
+
+    <ImageView
+        android:id="@+id/gambarstarting2"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        app:altSrc="@drawable/starting1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toEndOf="parent"
+        app:layout_constraintVertical_bias="0.4"
+        app:srcCompat="@drawable/starting2"
+        tools:layout_editor_absoluteX="411dp" />
+
+    <TextView
+        android:id="@+id/titleMenu2"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:fontFamily="sans-serif-condensed-light"
+        android:gravity="center_horizontal"
+        android:text="@string/starting2"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/gambarstarting2"
+        app:layout_constraintStart_toStartOf="@id/gambarstarting2"
+        app:layout_constraintTop_toBottomOf="@+id/gambarstarting2" />
+
+
+    <TextView
+        android:id="@+id/startingtxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="500dp"
+        android:alpha="0"
+        android:fontFamily="@font/oswaldfont"
+        android:gravity="center_horizontal"
+        android:text="@string/mainappname"
+        android:textColor="@color/brown"
+        android:textSize="42sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/menu2"
+        app:layout_constraintVertical_bias="1.0" />
+    <TextView
+        android:id="@+id/substartingtxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="500dp"
+        android:alpha="0"
+        android:fontFamily="@font/oswaldreguler"
+        android:gravity="center_horizontal"
+        android:text="@string/substartingtxt"
+        android:textColor="@color/brown"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/menu2"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:id="@+id/getstartedbtn"
+        android:layout_width="@dimen/_250sdp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_86sdp"
+        android:alpha="0"
+        android:backgroundTint="@color/brown"
+        android:text="@string/starting_signin"
+        android:textColor="@color/main_background"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toTopOf="@id/menu2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+    <Button
+        android:id="@+id/signinbtn"
+        android:layout_width="@dimen/_250sdp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_50sdp"
+        android:alpha="0"
+        android:backgroundTint="@color/main_background"
+        android:text="@string/starting_sign_up"
+        android:textColor="@color/brown"
+        app:strokeColor="@color/brown"
+        app:strokeWidth="@dimen/_1sdp"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toTopOf="@id/menu2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:id="@+id/menu1"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="32dp"
+        app:altSrc="@drawable/ic_circle_full_24"
+        app:layout_constraintEnd_toStartOf="@+id/menu2"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="parent"
+        app:srcCompat="@drawable/ic_circle_24"
+        app:tint="@color/brown" />
+
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:id="@+id/menu2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        app:altSrc="@drawable/ic_circle_full_24"
+        app:layout_constraintBottom_toBottomOf="@+id/menu1"
+        app:layout_constraintEnd_toStartOf="@+id/menu3"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/menu1"
+        app:layout_constraintTop_toTopOf="@+id/menu1"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/ic_circle_24"
+        app:tint="@color/brown" />
+
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:id="@+id/menu3"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="32dp"
+        app:altSrc="@drawable/ic_circle_full_24"
+        app:layout_constraintBottom_toBottomOf="@+id/menu2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/menu2"
+        app:layout_constraintTop_toTopOf="@+id/menu2"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/ic_circle_24"
+        app:tint="@color/brown" />
+
+</androidx.constraintlayout.motion.widget.MotionLayout>
