@@ -41,7 +41,10 @@ confident and satisfied with.
 4. Cloud Run
 5. Cloud Storage
 * Mobile Development
-
+1. Figma
+2. Android Studio
+3. Android Jetpack
+4. Retrofit
 
 ## Repositories 📁
 
